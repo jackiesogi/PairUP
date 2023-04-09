@@ -1,0 +1,13 @@
+﻿  MyForm.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\jck\unordered_map(32,9): warning C4068: unknown pragma 'GCC'
+C:\Users\陳首吉\source\repos\pairup\pairup\main_algorithm.h(34,16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\陳首吉\source\repos\pairup\pairup\main_algorithm.h(167,46): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\陳首吉\source\repos\pairup\pairup\main_algorithm.h(233,34): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\陳首吉\source\repos\pairup\pairup\main_algorithm.h(313,46): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\陳首吉\source\repos\pairup\pairup\main_algorithm.h(329,45): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\陳首吉\source\repos\pairup\pairup\main_algorithm.h(372,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\陳首吉\source\repos\pairup\pairup\main_algorithm.h(46): warning C4715: 'startPair::get_member': not all control paths return a value
+C:\Users\陳首吉\source\repos\pairup\pairup\main_algorithm.h(70): warning C4715: 'startPair::get_time': not all control paths return a value
+C:\Users\陳首吉\source\repos\pairup\pairup\main_algorithm.h(119): warning C4715: 'startPair::find_range': not all control paths return a value
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  pairup.vcxproj -> C:\Users\陳首吉\source\repos\pairup\x64\Release\pairup.exe

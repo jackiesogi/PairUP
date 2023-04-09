@@ -1,0 +1,4 @@
+C:\Users\陳首吉\source\repos\pairup\pairup\x64\Debug\pairup.vcxproj.AssemblyReference.cache
+C:\Users\陳首吉\source\repos\pairup\pairup\x64\Debug\pairup.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\陳首吉\source\repos\pairup\pairup\x64\Debug\pairup.MyForm.resources
+C:\Users\陳首吉\source\repos\pairup\pairup\x64\Debug\pairup.vcxproj.GenerateResource.cache
