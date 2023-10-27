@@ -1,4 +1,0 @@
-C:\Users\陳首吉\source\repos\pairup\pairup\x64\Release\pairup.vcxproj.AssemblyReference.cache
-C:\Users\陳首吉\source\repos\pairup\pairup\x64\Release\pairup.vcxproj.SuggestedBindingRedirects.cache
-C:\Users\陳首吉\source\repos\pairup\pairup\x64\Release\pairup.MyForm.resources
-C:\Users\陳首吉\source\repos\pairup\pairup\x64\Release\pairup.vcxproj.GenerateResource.cache
