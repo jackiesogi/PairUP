@@ -1,5 +1,7 @@
 # Pairup 介紹
 
+![](./image/thumbnail.png)
+
 PairUP : [https://drive.google.com/file/d/1jlEPmmsfBskAG1rD3HukkOJUYH-lc21N/view?usp=sharing](https://drive.google.com/file/d/1jlEPmmsfBskAG1rD3HukkOJUYH-lc21N/view?usp=sharing)
 
 ## 開發緣起
