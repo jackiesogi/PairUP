@@ -1,0 +1,5 @@
+﻿  MyForm.cpp
+C:\Users\陳首吉\source\repos\pairup\pairup\main_algorithm.h(165,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\陳首吉\source\repos\pairup\pairup\DevPair.h(31): warning C4715: 'get_time': not all control paths return a value
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  pairup.vcxproj -> C:\Users\陳首吉\source\repos\pairup\x64\Debug\pairup.exe
